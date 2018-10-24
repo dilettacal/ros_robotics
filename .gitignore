@@ -142,7 +142,7 @@ msg/*ActionResult.msg
 msg/*Feedback.msg
 msg/*Goal.msg
 msg/*Result.msg
-msg/_*.py
+#msg/_*.py
 build_isolated/
 devel_isolated/
 
